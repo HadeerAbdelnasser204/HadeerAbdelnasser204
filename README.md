@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadeer</h1>
-<h3 align="center">I am a student at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
+<h3 align="center">I am a student at the Faculty of Computer science and Artificial Intelligence at Cairo University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeerabdelnaser&label=Profile%20views&color=0e75b6&style=flat" alt="hadeerabdelnaser" /> </p>
 
