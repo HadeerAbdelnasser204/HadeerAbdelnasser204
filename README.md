@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hadeer</h1>
 <h3 align="center">I am a student at the Faculty of Computer science and Artificial Intelligence at Cairo University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeerabdelnaser&label=Profile%20views&color=0e75b6&style=flat" alt="hadeerabdelnaser" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HadeerAbdelnasser204&label=Profile%20views&color=0e75b6&style=flat" alt="HadeerAbdelnasser204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadeerabdelnaser" alt="hadeerabdelnaser" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HadeerAbdelnasser204" alt="HadeerAbdelnasser204" /></a> </p>
 
 - 📫 How to reach me **hadeerabdelnaser94@gmail.com**
 
@@ -17,8 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeerabdelnaser&show_icons=true&locale=en&layout=compact" alt="hadeerabdelnaser" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HadeerAbdelnasser204&show_icons=true&locale=en&layout=compact" alt="HadeerAbdelnasser204" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadeerabdelnaser&show_icons=true&locale=en" alt="hadeerabdelnaser" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HadeerAbdelnasser204&show_icons=true&locale=en" alt="HadeerAbdelnasser204" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadeerabdelnaser&" alt="hadeerabdelnaser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HadeerAbdelnasser204&" alt="HadeerAbdelnasser204" /></p>
